@@ -1,2 +1,2 @@
-Hello,World: Hello,World.c
-		gcc -Wall  -Werror -o Hello,World Hello,World.c
+Circle: Geom.c
+		gcc -Wall -Werror Geom.c -lm -o Geom
